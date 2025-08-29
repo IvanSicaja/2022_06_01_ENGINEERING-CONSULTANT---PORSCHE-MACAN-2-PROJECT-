@@ -1,5 +1,9 @@
 🧾 🎯 Role title: Engineering Consultant - Software tester and automatization developer for Porsche Macan 2 project
 
+📍 Location: ALTEN GmbH, Breitwiesenstr. 19, 70565 Stuttgart, Germany
+
+📅 Employment Period: Jun 2022 – Jun 2024
+
 🎥 YouTube Demo: Not available (confidential project)
 
 📦GitHub Source Code: Not available (confidential project)
