@@ -27,13 +27,13 @@ The role focused on **software testing, automation development, and process opti
 
 Key responsibilities:
 
-- **Create and maintain** software test databases based on Porsche requirements to ensure assigned parts of **Porsche Macan II software** are **production-ready**.
-- **Perform testing** of new Porsche Macan II software approximately every two weeks using **simulation testbenches** and **real car drives**.
-- **Identify, report, and track** software issues using tools such as **CANoe** and **EsoTrace Viewer**.
 - **Design and implement** automated testing solutions for **DID** and **optical checks** using **Python** with **OpenCV** to improve **efficiency** and **accuracy**.
 - **Automate auxiliary tasks**, including **large-scale Excel file editing** and **report generation**, using **Python** with **openpyxl** and **pywin32**.
 - **Research and develop** innovative solutions for various types of new challenges, including **Head-Up Display (HUD) software testing**.
+- **Create and maintain** software test databases based on Porsche requirements to ensure assigned parts of **Porsche Macan II software** are **production-ready**.
+- **Perform testing** of new Porsche Macan II software approximately every two weeks using **simulation testbenches** and **real car drives**.
 - **Assemble testbenches** and ensure they are **prepared** for new **software test releases**.
+- **Identify, report, and track** software issues using tools such as **CANoe** and **EsoTrace Viewer**.
 
 ### ⚠️ **Note**
 
