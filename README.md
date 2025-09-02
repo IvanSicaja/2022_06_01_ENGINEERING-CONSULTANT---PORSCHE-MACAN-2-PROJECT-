@@ -3,14 +3,14 @@
 📅 Employment Period: Jun 2022 – Jun 2024  
 🎥 YouTube Demo: Not available (confidential project)  
 📦 GitHub Source Code: Not available (confidential project)  
-----------------------------------------------------------------------------------------------------------------
+---
 
 **🏷️** My Personal Profiles: ⬇︎  
 🎥 Video Portfolio: To be added  
 📦 GitHub Profile: [https://github.com/IvanSicaja](https://github.com/IvanSicaja?utm_source=chatgpt.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222](https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222?utm_source=chatgpt.com)  
 🎥 YouTube: [https://www.youtube.com/@ivan_sicaja](https://www.youtube.com/@ivan_sicaja?utm_source=chatgpt.com)  
-----------------------------------------------------------------------------------------------------------------
+---
 
 ### **📚🔍 Project description:** ⬇︎⬇︎⬇︎
 
