@@ -37,6 +37,41 @@ Due to **confidentiality** and **NDA restrictions**, no **source code** or **int
 
 Python, Computer Vision, Pandas, Tableau, Microsoft Excel Automation, Linux, TortoiseSVN, CANoe, EsoTrace Viewer,OpenCV, openpyxl, pywin32
 
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2022.06.01_GitHub_Porsche-Macan-2-Project/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true" 
+       alt="Porsche Macan 2 Preview 1" 
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2022.06.01_GitHub_Porsche-Macan-2-Project/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.png?raw=true" 
+       alt="Porsche Macan 2 Preview 2" 
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2022.06.01_GitHub_Porsche-Macan-2-Project/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_3.png?raw=true" 
+       alt="Porsche Macan 2 Preview 3" 
+       width="640" 
+       height="360">
+</p>
+
+---
+
+
+### 🎥 Video Demonstration
+
+Not available (confidential project)
+
+---
+
+
 ### **📣 Hashtags Section**
 
 \# #Python #ComputerVision #Automation #SoftwareTesting #QualityAssurance #TestAutomation #Porsche #Pandas #Tableau #ExcelAutomation #CANoe #EsoTraceViewer #Linux #EngineeringConsultant #AutomotiveSoftware #Innovation
