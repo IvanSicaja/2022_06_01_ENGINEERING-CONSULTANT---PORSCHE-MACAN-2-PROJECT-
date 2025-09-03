@@ -2,7 +2,7 @@
 📍 Location:** ALTEN GmbH, Breitwiesenstr. 19, 70565 Stuttgart, Germany  
 📅 Employment Period: Jun 2022 – Jun 2024  
 🎥 YouTube Demo: Not available (confidential project)  
-📦 GitHub: https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System
+📦 GitHub: <https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System>  
 \----------------------------------------------------------------------------------------------------------------
 
 **🏷️** My Personal Profiles: ⬇︎  
@@ -70,7 +70,6 @@ Python, Computer Vision, Pandas, Tableau, Microsoft Excel Automation, Linux, Tor
 Not available (confidential project)
 
 ---
-
 
 ### **📣 Hashtags Section**
 
